@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Welcome
+title:  Daniel's Minimum Viable CV
 ---
 
 # {{ page.title }}
@@ -27,11 +27,3 @@ This is a list:
 - Orange
 - Apple
 - Blueberry
-
-
-
-Just getting started with Markdown?
-See the [HTML <-> Markdown Quick Reference (Cheat Sheet)][quickref].
-
-
-[quickref]: https://github.com/mundimark/quickrefs/blob/master/HTML.md
