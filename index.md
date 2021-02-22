@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Daniel's Minimum Viable CV
+title:  About the Good sir Himself
 ---
 
 # {{ page.title }}
@@ -9,9 +9,9 @@ title:  Daniel's Minimum Viable CV
 _Add your text here_
 
 
-What's Markdown (`.md`)?
+Who is Daniel (`the prospective`)?
 
-Markdown is markup that lets you write hypertext (HTML) documents
+Daniel is markup that lets you write hypertext (HTML) documents
 in easy-to-read and easy-to-write plain text.
 No angle brackets `<></>` required for
 paragraphs, lists, blockquotes, tables, etc.
