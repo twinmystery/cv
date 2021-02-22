@@ -26,43 +26,6 @@ Becomes
     └── index.html               # index (start) sample page
 ```
 
-### Live Demo
+### REPURPOSED
 
-See a live demo @ [`henrythemes.github.io/jekyll-starter-theme` »](http://henrythemes.github.io/jekyll-starter-theme)
-
-
-### Version 2.0
-
-Note: For a more "advanced" starter theme, see the
-[Jekyll Starter Theme V2](https://github.com/henrythemes/jekyll-starter-theme-v2).
-The V2 includes:
-
-- Shared (common) template/page building blocks using `_includes` e.g. `head.html`, `header.html`, `footer.html` etc.
-- CSS preprocessing using Sass/SCSS e.g. `_settings.scss` with `$link-color` etc.
-- Nav(igation) menu (auto-)built using a configuration / data block
-- And more
-
-### More Themes
-
-See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
-
-
-### More Quick Starter Wizard Scripts
-
-See the [Mr. Hyde's Scripts](https://github.com/mrhydescripts/scripts) library.
-
-
-
-## Meta
-
-#### License
-
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
-The starter theme is dedicated to the public domain.
-Use it as you please with no restrictions whatsoever.
-
-#### Questions? Comments?
-
-Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
-
+For CV.  
