@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  About the Good sir Himself
+title:  the Good sir Himself
 ---
 
 # {{ page.title }}
@@ -11,7 +11,7 @@ _Add your text here_
 
 Who is Daniel (`the prospective`)?
 
-Daniel is hypertext markup in Markdown  
+Daniel is a hypertext markup in Markdown  
 that lets you document documents  
 and design designs.  Daniel is  
 easy-to-read and easy-to-write.  
