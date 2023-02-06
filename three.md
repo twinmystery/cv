@@ -6,7 +6,10 @@ title:  Writing
 # {{ page.title }}
 
 
-Another sample page.
+Writing:
 
-_Add your text here_
-
+_Spout_
+_Alin_
+_Fringe_
+_etc_
+_etc_
